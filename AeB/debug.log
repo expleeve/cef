@@ -1,0 +1,71 @@
+[0623/150835:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/150835:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/150948:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/151129:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/151317:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/151337:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/151433:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/151457:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/151843:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/151853:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152005:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152011:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152128:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152149:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152533:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152541:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152701:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152704:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152732:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152733:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152756:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152759:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/152823:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/152823:ERROR:ipc_channel_win.cc(414)] pipe error: 232
+[0623/152845:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/153236:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/153301:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/153452:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/153452:ERROR:ipc_channel_win.cc(414)] pipe error: 232
+[0623/153454:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/153632:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/153647:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/153948:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/154030:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/154052:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/154057:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/154137:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/154137:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/154203:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/154218:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/160335:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/160335:ERROR:ipc_channel_win.cc(414)] pipe error: 232
+[0623/160341:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/161913:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/161913:ERROR:ipc_channel_win.cc(414)] pipe error: 232
+[0623/161914:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/171009:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/171009:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/171135:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/171135:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/171239:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/171239:ERROR:ipc_channel_win.cc(138)] pipe error: 109
+[0623/171239:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/171341:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/171342:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/221648:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/221649:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/221950:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/221951:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/222502:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/222503:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/222639:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/222640:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/222705:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/222705:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/223300:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/223300:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0623/223354:ERROR:gpu_child_thread.cc(163)] Exiting GPU process due to errors during initialization
+[0623/223355:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0624/134222:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0629/145530:ERROR:renderer_main.cc(200)] Running without renderer sandbox
